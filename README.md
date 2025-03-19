@@ -14,3 +14,4 @@ El usuario deberá agregar nombres mediante un campo de texto y un botón "Adici
 
 <h1 align="center"> Contexto del Challenge </h1>
 Este proyecto forma parte de un desafio del curso "Practicando Lógica de Programación: Challenge Amigo secreto" de Alura. Está diseñado para ayudar a desarrollar habilidades en lógica de programación, enfocado en la construcción de la lógica del código JavaScript. En esta actividad, se están abordando conceptos clave como funciones, arrays, condicionales y variables. 
+Fin de la descripción
